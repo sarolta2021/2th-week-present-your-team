@@ -1,0 +1,63 @@
+{
+    "version": "https://github.com/sarolta2021/2th-week-present-your-team.git",
+    "title": "Fantastic four",
+    "home_page_url": "https://www.marvel.com/teams-and-groups/fantastic-four",
+    "description": "First team project.",
+    "items": [
+    
+    {
+      "name": "Brigitta",
+      "email": "bbb",
+      "hobby": "kettlebell",
+      "open person": true,
+      "cleaning score": 8,
+      "good-friend": true,
+      "drink": "wine",
+      "location" : "Budapest",
+      "motto": "Inkább sírjon valaki a vállamon, minthogy költöztesem",
+      "best holiday" : "Milano",
+      "biggest fear" : "gluten"
+    }
+    {
+        "name": "Ármin",
+        "email": "bbb",
+        "hobby": "kettlebell",
+        "open person": true,
+        "cleaning score": 8,
+        "good-friend": true,
+        "drink": "bier",
+        "location" : "Budapest",
+        "motto": "Inkább sírjon valaki a vállamon, minthogy költöztesem",
+        "best holiday" : "Milano",
+        "biggest fear" : "no cash"
+      }
+      {
+        "name": "Csabi",
+        "email": "bbb",
+        "hobby": "kettlebell",
+        "open person": true,
+        "cleaning score": 8,
+        "good-friend": true,
+        "drink": "bier",
+        "location" : "Budapest",
+        "motto": "Inkább sírjon valaki a vállamon, minthogy költöztesem",
+        "best holiday" : "Milano",
+        "biggest fear" : "homeless"
+      }
+      {
+        "name": "Sarolta",
+        "email": "csaky.sarolta@gmail.com",
+        "hobby": "running",
+        "open person": true,
+        "cleaning score": 8,
+        "good-friend": true,
+        "drink": "wine",
+        "location" : "Budapest",
+        "motto": "Inkább sírjon valaki a vállamon, minthogy költöztesem",
+        "best holiday" : "Sicily",
+        "biggest fear" : "starving"
+      }
+    ]
+    }
+    
+          
