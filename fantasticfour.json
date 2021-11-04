@@ -33,16 +33,16 @@
       }
       {
         "name": "Csabi",
-        "email": "bbb",
-        "hobby": "kettlebell",
+        "email": "kralikcsabi@gmail.com",
+        "hobby": "kickbox,gitar",
         "open person": true,
         "cleaning score": 8,
         "good-friend": true,
-        "drink": "bier",
+        "drink": "beer",
         "location" : "Budapest",
-        "motto": "Inkább sírjon valaki a vállamon, minthogy költöztesem",
-        "best holiday" : "Milano",
-        "biggest fear" : "homeless"
+        "motto": "egy sör nem sör",
+        "best holiday" : "NewYork",
+        "biggest fear" : "homelessnes"
       }
       {
         "name": "Sarolta",
